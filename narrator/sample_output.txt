@@ -1,0 +1,8 @@
+Situation
+Mamaearth's cleaned order data represents INR 97358.30 in revenue. COD orders have a 44.4% return rate, compared with 14.7% for CARD and 18.9% for UPI.
+
+Complication
+The highest-risk segment is COD in Tier-2 cities at 54.5%. The raw revenue exceeded the cleaned total by INR 2501.90 because five duplicate orders were removed. January appeared to lead with INR 29582.10, but bulk outliers inflated that result.
+
+Resolution
+ Prioritize COD operations in Tier-2 cities and monitor the duplicate-order control. After correcting the outliers, March 2026 is the true peak month with revenue of INR 20318.90.
